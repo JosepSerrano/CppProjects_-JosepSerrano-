@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Random Enemy Generator", "C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The Walking dead", "ConsoleApplication2\ConsoleApplication2.vcxproj", "{BC002464-FE83-41E4-A1D8-E906D0D0EEDD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynArray", "DynArray\DynArray.vcxproj", "{CE79ED1D-FD56-4854-804C-F003CDD5F468}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BC002464-FE83-41E4-A1D8-E906D0D0EEDD}.Release|x64.Build.0 = Release|x64
 		{BC002464-FE83-41E4-A1D8-E906D0D0EEDD}.Release|x86.ActiveCfg = Release|Win32
 		{BC002464-FE83-41E4-A1D8-E906D0D0EEDD}.Release|x86.Build.0 = Release|Win32
+		{CE79ED1D-FD56-4854-804C-F003CDD5F468}.Debug|x64.ActiveCfg = Debug|x64
+		{CE79ED1D-FD56-4854-804C-F003CDD5F468}.Debug|x64.Build.0 = Debug|x64
+		{CE79ED1D-FD56-4854-804C-F003CDD5F468}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE79ED1D-FD56-4854-804C-F003CDD5F468}.Debug|x86.Build.0 = Debug|Win32
+		{CE79ED1D-FD56-4854-804C-F003CDD5F468}.Release|x64.ActiveCfg = Release|x64
+		{CE79ED1D-FD56-4854-804C-F003CDD5F468}.Release|x64.Build.0 = Release|x64
+		{CE79ED1D-FD56-4854-804C-F003CDD5F468}.Release|x86.ActiveCfg = Release|Win32
+		{CE79ED1D-FD56-4854-804C-F003CDD5F468}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

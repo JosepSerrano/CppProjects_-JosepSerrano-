@@ -22,6 +22,7 @@ class Player {
 
 	Player() {
 		weapon = static_cast<Weapon>( rand() % static_cast<int> (Weapon::MAX));
+		//static_cast<int> para pasar a int el MAX del Weapon
 		precision = (rand()%10)/10.0f;
 		life = rand() % 101;
 	}
