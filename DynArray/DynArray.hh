@@ -1,6 +1,9 @@
 #pragma once
 #include <ostream>
 
+DynArray a;
+DynArray b(5);
+
 class DynArray
 {
 public:
